@@ -1,0 +1,24 @@
+
+Mouseover Element
+Clock
+Magic 8 Ball
+Build a To-Do List
+Epic Mix Playlist
+Pet Rescue
+Drum Kit
+Speech Detection
+Sticky Navigation
+Geolocation
+Movie App
+Name Tags
+Intermediate JavaScript Projects
+Tone.js
+Election Map
+Login Authentication
+Guess the Word
+Terminalizer
+Chat App
+Tic Tac Toe Game
+Hotel Booking App
+Advanced JavaScript Project
+Maze Game
